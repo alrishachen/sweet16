@@ -23,8 +23,8 @@ const locationStops = [
     title: "Starting from home",
     address: "1003 Cerrito Way, Palo Alto, CA 94306",
     note: "Starting the day in Palo Alto before heading out together.",
-    image: "./public/locations/palo-alto.jpg",
-    alt: "Palo Alto landscape",
+    image: "./public/locations/palo-alto-university-avenue.jpg",
+    alt: "Palo Alto University Avenue streetscape",
   },
   {
     title: "Filoli Gardens",
